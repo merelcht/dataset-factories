@@ -17,7 +17,7 @@ def _parse_money(x: pd.Series) -> pd.Series:
     return x
 
 
-def preprocess_companies(companies: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+def preprocess_companies(companies: pd.DataFrame) -> pd.DataFrame:
     """Preprocesses the data for companies.
 
     Args:
@@ -28,7 +28,7 @@ def preprocess_companies(companies: pd.DataFrame) -> tuple[pd.DataFrame, pd.Data
     """
     companies["iata_approved"] = _is_true(companies["iata_approved"])
     companies["company_rating"] = _parse_percentage(companies["company_rating"])
-    return companies, companies, companies
+    return companies
 
 
 def preprocess_shuttles(shuttles: pd.DataFrame) -> pd.DataFrame:

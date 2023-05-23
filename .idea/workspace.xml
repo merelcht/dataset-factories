@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19c75b37-5011-4259-b469-8bf3998a3456" name="Default Changelist" comment="" />
+    <list default="true" id="19c75b37-5011-4259-b469-8bf3998a3456" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/conf/base/old_cat.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/base/catalog.yml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/base/catalog.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T14.07.12.376Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T14.09.14.335Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T14.13.20.383Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T14.17.26.768Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T15.45.01.790Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T15.53.14.524Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T16.04.34.115Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T16.10.36.584Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T16.11.16.093Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T16.48.41.271Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T16.54.02.548Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-04-27T16.55.31.269Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-05-02T16.39.14.986Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-05-03T14.17.25.613Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-05-03T14.19.26.559Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-05-03T14.21.16.841Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-05-03T14.26.07.201Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-05-03T14.30.59.773Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-05-05T11.01.03.924Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/06_models/regressor.pickle/2023-05-05T11.03.03.878Z/regressor.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/france/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/germany/companies.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataset_factories/pipelines/data_processing/nodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataset_factories/pipelines/data_processing/nodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataset_factories/pipelines/data_processing/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataset_factories/pipelines/data_processing/pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataset_factories/pipelines/data_science/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataset_factories/pipelines/data_science/pipeline.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +75,9 @@
       <option name="presentableId" value="Default" />
       <updated>1682604398157</updated>
       <workItem from="1682604399285" duration="11613000" />
+      <workItem from="1683284504646" duration="8296000" />
+      <workItem from="1684312853294" duration="1166000" />
+      <workItem from="1684772556000" duration="605000" />
     </task>
     <servers />
   </component>

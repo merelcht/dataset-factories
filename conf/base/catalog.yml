@@ -29,9 +29,3 @@ regressor:
   filepath: data/06_models/regressor.pickle
   versioned: true
 
-"{root_namespace}.{dataset_name}@csv":
-  type: pandas.CSVDataSet
-  filepath: data/{root_namespace}/{dataset_name}.csv
-  load_args:
-    sep: ","
-    na_values: [ "#NA", NA ]
