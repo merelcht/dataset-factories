@@ -35,26 +35,3 @@ https://kedro.readthedocs.io/en/stable/kedro_project_setup/settings.html."""
 # Class that manages the Data Catalog.
 # from kedro.io import DataCatalog
 # DATA_CATALOG_CLASS = DataCatalog
-# from kedro.io import MemoryDataSet
-# from kedro_datasets.pandas import CSVDataSet
-#
-#
-# def create_pandas_csvdataset(chunks: dict):
-#     root_namespace = chunks.get("root_namespace")
-#     dataset_name_chunk = chunks.get("dataset_name")
-#     return CSVDataSet(
-#         filepath=f"data/{root_namespace}/{dataset_name_chunk}.csv",
-#         load_args={"sep": ","},
-#     )
-#
-#
-# def create_memory_dataset(chunks: dict):
-#     return MemoryDataSet()
-#
-#
-# DATA_CATALOG_ARGS = {
-#     "datasets_factories": {
-#         "{root_namespace}.{dataset_name}@csv": create_pandas_csvdataset,
-#         "{root_namespace}@memory": create_memory_dataset,
-#     }
-# }
